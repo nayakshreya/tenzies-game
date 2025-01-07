@@ -49,7 +49,7 @@ Follow these steps to set up the project locally:
    npm run dev
 
 5. **Open your browser**:
-   The app will be available at http://localhost:5173 (or the URL provided by the terminal).
+   The app will be available at http://localhost:<port> (or the URL provided by the terminal).
 
 --- 
 
