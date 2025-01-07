@@ -25,6 +25,8 @@ Tenzies is a fun and addictive dice game! Roll the dice until all 10 dice show t
 
 ## Screenshot 📸
 
+![Tenzies Game Screenshot](assets/tenzies-image1.png)
+![Tenzies Game Screenshot](assets/tenzies-image2.png)
 
 --- 
 
